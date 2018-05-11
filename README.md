@@ -6,6 +6,6 @@
 - Validar el ingreso de enteros.
 - Validar el largo del entero (6 o 7).
 
-## LICENNCIA
+## LICENCIA
 
 MIT
