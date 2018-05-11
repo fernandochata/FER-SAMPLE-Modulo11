@@ -1,7 +1,11 @@
-# Modulo11-JAVA
+## MODULO11 JAVA
 
-Función que recibe un integer y obtiene su dígito verificador en String.
+- Función que recibe un integer y obtiene su dígito verificador en String.
 
-No se encuentra validado el ingreso de cadenas de texto, ni el largo del entero.
+## TO-DO
+- Validar el ingreso de enteros.
+- Validar el largo del entero (6 o 7).
 
-by Fernando Chata
+## LICENNCIA
+
+MIT
